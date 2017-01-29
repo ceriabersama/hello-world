@@ -1,10 +1,6 @@
 # hello-world
 
-test test test
-
-first mandatory activities on github
-
-this file is made at readme-edit branch
+first area landing for learning programming by practice. in this repository i'll try to write every hello world using programming language known.
 
 regards,
 
