@@ -5,7 +5,7 @@
 */
 #include <iostream> // library that used
 
-// main programming body
+// function main begin
 int main()
 {
     std:: cout << "Hello World!"; // print command
