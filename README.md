@@ -4,4 +4,4 @@ first area landing for learning programming by practice. in this repository i'll
 
 regards,
 
-Rio Caesar
+Yustinus Rio Donato
